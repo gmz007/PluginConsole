@@ -1,0 +1,5 @@
+<Project>
+   <PropertyGroup>
+      <OutDir>$(SolutionDir)build\$(MSBuildProjectName)</OutDir>
+   </PropertyGroup>
+</Project>
